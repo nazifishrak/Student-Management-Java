@@ -1,0 +1,40 @@
+{
+    "name": "UBC CPSC 210",
+    "students": [
+        {
+            "fname": "Nazif",
+            "lname": "Ishrak",
+            "contact": "323233232",
+            "id": "sdd",
+            "status": "paid"
+        },
+        {
+            "fname": "Nafis",
+            "lname": "Ishrak",
+            "contact": "3235553232",
+            "id": "gaf",
+            "status": "unpaid"
+        },
+        {
+            "fname": "Jeremy",
+            "lname": "Luigi",
+            "contact": "323233232",
+            "id": "sda",
+            "status": "paid"
+        },
+        {
+            "fname": "Ayush ",
+            "lname": "Joshi",
+            "contact": "15145456",
+            "id": "shj",
+            "status": "paid"
+        },
+        {
+            "fname": "Pietro",
+            "lname": "Lavino",
+            "contact": "2369920300",
+            "id": "hdh",
+            "status": "due"
+        }
+    ]
+}

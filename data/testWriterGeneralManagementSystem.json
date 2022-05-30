@@ -1,0 +1,26 @@
+{
+    "name": "UBC CPSC 210",
+    "students": [
+        {
+            "fname": "Nazif",
+            "lname": "Ishrak",
+            "contact": "01727498603",
+            "id": "123",
+            "status": "paid"
+        },
+        {
+            "fname": "Nafis",
+            "lname": "Ishrak",
+            "contact": "01727498603",
+            "id": "124",
+            "status": "paid"
+        },
+        {
+            "fname": "Alex",
+            "lname": "Zhang",
+            "contact": "01725564503",
+            "id": "125",
+            "status": "paid"
+        }
+    ]
+}
